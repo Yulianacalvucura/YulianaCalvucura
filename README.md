@@ -47,7 +47,6 @@ I'm exploring the world of programming, technology and creative development.
 <!-- Keep only the technologies you actually know -->
 
 <img src="https://img.shields.io/badge/HTML5-541B2B?style=for-the-badge&logo=html5&logoColor=EBC4D0"/>
-<img src="https://img.shields.io/badge/CSS3-842D45?style=for-the-badge&logo=css3&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Python-334B3C?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/GitHub-211A20?style=for-the-badge&logo=github&logoColor=D99AAE"/>
 
