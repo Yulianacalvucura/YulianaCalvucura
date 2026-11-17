@@ -27,10 +27,10 @@ Hello! I'm **Yuliana** ♡
 
 I'm exploring the world of programming, technology and creative development.
 
-- ☾ Learning something new every day.
-- 🥀 Interested in software development.
-- ☘ I love creativity and digital aesthetics.
-- ✧ Always looking for new things to create.
+-  Learning something new every day.
+-  Interested in software development.
+-  I love creativity and digital aesthetics.
+-  Always looking for new things to create.
 
 ---
 
