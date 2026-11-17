@@ -9,7 +9,7 @@
 
 ### 🥀 Welcome to my enchanted corner 🥀
 
-*✧ a little bit of magic, a little bit of code ✧*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=D99AAE&center=true&vCenter=true&width=450&lines=✧+a+little+bit+of+magic;✧+a+little+bit+of+code;🥀+welcome+to+my+enchanted+corner" alt="Typing animation"/>
 
 <img src="https://img.shields.io/badge/♡-dark%20fairy-541B2B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/☘-forest%20soul-71866A?style=for-the-badge"/>
